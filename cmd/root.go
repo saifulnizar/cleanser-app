@@ -8,11 +8,11 @@ import (
 	"syscall"
 
 	"github.com/spf13/cobra"
-	"github.com/yourusername/cleanser/internal/app"
-	"github.com/yourusername/cleanser/internal/deleter"
-	"github.com/yourusername/cleanser/internal/logger"
-	"github.com/yourusername/cleanser/internal/scanner"
-	"github.com/yourusername/cleanser/internal/ui"
+	"github.com/saifulnizar/cleanser/internal/app"
+	"github.com/saifulnizar/cleanser/internal/deleter"
+	"github.com/saifulnizar/cleanser/internal/logger"
+	"github.com/saifulnizar/cleanser/internal/scanner"
+	"github.com/saifulnizar/cleanser/internal/ui"
 )
 
 const version = "1.0.0"

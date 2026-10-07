@@ -1,4 +1,4 @@
-module github.com/yourusername/cleanser
+module github.com/saifulnizar/cleanser
 
 go 1.26.7
 

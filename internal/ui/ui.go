@@ -7,7 +7,7 @@ import (
 
 	"github.com/AlecAivazis/survey/v2"
 	"github.com/AlecAivazis/survey/v2/terminal"
-	"github.com/yourusername/cleanser/internal/scanner"
+	"github.com/saifulnizar/cleanser/internal/scanner"
 )
 
 // ANSI color codes.

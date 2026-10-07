@@ -28,8 +28,8 @@
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/cleanser.git
-cd cleanser
+git clone https://github.com/saifulnizar/cleanser-app.git
+cd cleanser-app
 go build -o cleanser
 sudo mv cleanser /usr/local/bin/
 ```

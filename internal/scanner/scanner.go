@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/yourusername/cleanser/internal/app"
+	"github.com/saifulnizar/cleanser/internal/app"
 )
 
 // FileEntry represents a single file or directory found during scanning.

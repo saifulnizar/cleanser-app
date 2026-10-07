@@ -7,7 +7,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/yourusername/cleanser/internal/app"
+	"github.com/saifulnizar/cleanser/internal/app"
 )
 
 // ─── buildSearchTerms ─────────────────────────────────────────────────────────
